@@ -1,0 +1,5 @@
+vendor.perf.framepacing.enable=false
+persist.sys.background_blur_supported=true
+persist.sys.power.default.powermode=1
+ro.miui.backdrop_sampling_enabled=true
+ro.config.low_ram.threshold_gb=2
